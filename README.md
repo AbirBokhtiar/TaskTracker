@@ -176,5 +176,4 @@ You can extend the functionality of your Task Tracker by:
 
 ---
 
-## Enjoy Your Task Tracker!
 This simple but powerful Task Tracker will help you manage and track tasks, monitor progress, and automate reminders. Feel free to customize it to fit your project’s needs!
